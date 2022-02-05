@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ethavatar/static/js/main.6fff31ff.js",
-    "static/js/787.7d118548.chunk.js": "/ethavatar/static/js/787.7d118548.chunk.js",
-    "index.html": "/ethavatar/index.html",
-    "main.6fff31ff.js.map": "/ethavatar/static/js/main.6fff31ff.js.map",
-    "787.7d118548.chunk.js.map": "/ethavatar/static/js/787.7d118548.chunk.js.map"
+    "main.js": "/ethavatar-public/static/js/main.b5b814ea.js",
+    "static/js/787.7d118548.chunk.js": "/ethavatar-public/static/js/787.7d118548.chunk.js",
+    "index.html": "/ethavatar-public/index.html",
+    "main.b5b814ea.js.map": "/ethavatar-public/static/js/main.b5b814ea.js.map",
+    "787.7d118548.chunk.js.map": "/ethavatar-public/static/js/787.7d118548.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6fff31ff.js"
+    "static/js/main.b5b814ea.js"
   ]
 }
