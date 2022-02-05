@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ethavatar-public/static/js/main.89d35469.js",
+    "main.js": "/ethavatar-public/static/js/main.a9fb1107.js",
     "static/js/787.7d118548.chunk.js": "/ethavatar-public/static/js/787.7d118548.chunk.js",
     "index.html": "/ethavatar-public/index.html",
-    "main.89d35469.js.map": "/ethavatar-public/static/js/main.89d35469.js.map",
+    "main.a9fb1107.js.map": "/ethavatar-public/static/js/main.a9fb1107.js.map",
     "787.7d118548.chunk.js.map": "/ethavatar-public/static/js/787.7d118548.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.89d35469.js"
+    "static/js/main.a9fb1107.js"
   ]
 }
